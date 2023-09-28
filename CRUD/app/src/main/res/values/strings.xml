@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="tv_titulo">Registro de usuarios</string>
+    <string name="et_documento">DOCUMENTO</string>
+    <string name="et_usuario">USUARIO</string>
+    <string name="et_nombres">NOMBRE</string>
+    <string name="et_apellidos">APELLIDO</string>
+    <string name="et_contra">CONTRASEÑA</string>
+    <string name="bt_registar">REGISTRAR</string>
+    <string name="bt_buscar">BUSCAR</string>
+    <string name="bt_listar_registros">LISTAR</string>
+</resources>
