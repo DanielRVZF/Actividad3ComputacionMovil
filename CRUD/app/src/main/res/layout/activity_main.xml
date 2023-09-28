@@ -45,7 +45,7 @@
         android:text="@string/bt_registar"
         android:onClick="accionRegistrar" />
 
-    <!-- EditText y Button para buscar -->
+    
     <EditText
         android:id="@+id/et_buscar_documento"
         android:layout_width="match_parent"
@@ -59,7 +59,7 @@
         android:text="Buscar"
         android:onClick="accionBuscar" />
 
-    <!-- ListView para mostrar resultados de búsqueda -->
+    
     <ListView
         android:id="@+id/LV_lista"
         android:layout_width="match_parent"
